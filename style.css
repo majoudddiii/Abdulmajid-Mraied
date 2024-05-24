@@ -1,0 +1,48 @@
+.hero {
+    background-image: url(./imgs/hero.jpg);
+    background-size: cover;
+    height: 90vh;
+}
+
+.programmer {
+    font-size: 40px
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.pfp {
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.border{
+    color: black;
+    border: 1px solid black;
+}
+
+.bgf{
+    width: 20px;
+}
+
+.center{
+    text-align: center;
+}
+
+.black{
+    background-color: rgb(17, 17, 17);
+}
+
+.vh90{
+    height: 90vh;
+}
+
+.cap-bg {
+    background-color: black;
+    color: white;
+}
+
+.footerend{
+    height: 12vh;
+}
